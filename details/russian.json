@@ -1,0 +1,2245 @@
+{
+    "tasksData": [
+        {
+            "name": "easy",
+            "localizedName": "простые слова",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 0,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "яблоко",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 2,
+                    "rightAnswer": "мяч",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 3,
+                    "rightAnswer": "клубника",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 4,
+                    "rightAnswer": "ключ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 5,
+                    "rightAnswer": "гриб",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 6,
+                    "rightAnswer": "собака",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 7,
+                    "rightAnswer": "стол",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 8,
+                    "rightAnswer": "дерево",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 9,
+                    "rightAnswer": "подушка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 10,
+                    "rightAnswer": "хлеб",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 11,
+                    "rightAnswer": "ложка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 12,
+                    "rightAnswer": "вилка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 13,
+                    "rightAnswer": "солнце",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 14,
+                    "rightAnswer": "дом",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 15,
+                    "rightAnswer": "стул",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 16,
+                    "rightAnswer": "глаз",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 17,
+                    "rightAnswer": "дверь",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 18,
+                    "rightAnswer": "мозг",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 19,
+                    "rightAnswer": "нога",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 20,
+                    "rightAnswer": "рука",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, {
+                    "number": 21,
+                    "rightAnswer": "банан",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 22,
+                    "rightAnswer": "палка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 23,
+                    "rightAnswer": "скамейка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 24,
+                    "rightAnswer": "стена",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 25,
+                    "rightAnswer": "колесо",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 26,
+                    "rightAnswer": "птица",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 27,
+                    "rightAnswer": "барабан",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 28,
+                    "rightAnswer": "ножницы",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 29,
+                    "rightAnswer": "палец",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 30,
+                    "rightAnswer": "машина",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 31,
+                    "rightAnswer": "диван",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 32,
+                    "rightAnswer": "ступеньки",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 33,
+                    "rightAnswer": "молоток",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 34,
+                    "rightAnswer": "отвертка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 35,
+                    "rightAnswer": "суп",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 36,
+                    "rightAnswer": "груша",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 37,
+                    "rightAnswer": "картофель",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 38,
+                    "rightAnswer": "чашка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 39,
+                    "rightAnswer": "дождь",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 40,
+                    "rightAnswer": "бабочка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 41,
+                    "rightAnswer": "кот",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 42,
+                    "rightAnswer": "одеяло",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 43,
+                    "rightAnswer": "полотенце",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 44,
+                    "rightAnswer": "кулак",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 45,
+                    "rightAnswer": "цветок",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 46,
+                    "rightAnswer": "кофе",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 47,
+                    "rightAnswer": "сахар",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 48,
+                    "rightAnswer": "молоко",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 49,
+                    "rightAnswer": "ручка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 50,
+                    "rightAnswer": "карандаш",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 51,
+                    "rightAnswer": "забор",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 52,
+                    "rightAnswer": "удочка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 53,
+                    "rightAnswer": "камень",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 54,
+                    "rightAnswer": "окно",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 55,
+                    "rightAnswer": "сейф",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 56,
+                    "rightAnswer": "облако",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 57,
+                    "rightAnswer": "книга",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 58,
+                    "rightAnswer": "огонь",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 59,
+                    "rightAnswer": "письмо",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 60,
+                    "rightAnswer": "душ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 61,
+                    "rightAnswer": "нож",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 62,
+                    "rightAnswer": "лист",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 63,
+                    "rightAnswer": "бутылка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 64,
+                    "rightAnswer": "ухо",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 65,
+                    "rightAnswer": "маятник",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 66,
+                    "rightAnswer": "лупа",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 67,
+                    "rightAnswer": "кирпич",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 68,
+                    "rightAnswer": "гвоздь",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 69,
+                    "rightAnswer": "утюг",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 70,
+                    "rightAnswer": "стакан",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 71,
+                    "rightAnswer": "пуговица",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 72,
+                    "rightAnswer": "погремушка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 73,
+                    "rightAnswer": "коробка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 74,
+                    "rightAnswer": "унитаз",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 75,
+                    "rightAnswer": "кастрюля",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 76,
+                    "rightAnswer": "термос",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 77,
+                    "rightAnswer": "велосипед",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 78,
+                    "rightAnswer": "часы",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 79,
+                    "rightAnswer": "весы",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 80,
+                    "rightAnswer": "корона",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 81,
+                    "rightAnswer": "трава",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 82,
+                    "rightAnswer": "персик",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 83,
+                    "rightAnswer": "спина",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 84,
+                    "rightAnswer": "шорты",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 85,
+                    "rightAnswer": "бант",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 86,
+                    "rightAnswer": "сумка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 87,
+                    "rightAnswer": "вертолет",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 88,
+                    "rightAnswer": "шлагбаум",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 89,
+                    "rightAnswer": "пицца",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 90,
+                    "rightAnswer": "кольцо",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 91,
+                    "rightAnswer": "огнетушитель",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 92,
+                    "rightAnswer": "зуб",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 93,
+                    "rightAnswer": "автобус",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 94,
+                    "rightAnswer": "крышка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 95,
+                    "rightAnswer": "бубен",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 96,
+                    "rightAnswer": "глобус",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 97,
+                    "rightAnswer": "рыба",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 98,
+                    "rightAnswer": "компас",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 99,
+                    "rightAnswer": "бокал",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 100,
+                    "rightAnswer": "бассейн",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }
+            ]
+        },
+        {
+            "name": "stillEasy",
+            "localizedName": "всё ещё легко",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "меч",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "остров",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "золото",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "шприц",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "свадьба",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 6,
+                    "rightAnswer": "пижама",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "фуражка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "пирог",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "факел",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "муравей",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 11,
+                    "rightAnswer": "клатч",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "ошейник",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "перископ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "кепка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "соль",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 16,
+                    "rightAnswer": "тыква",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "жираф",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "блин",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "веревка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "колба",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 21,
+                    "rightAnswer": "яичница",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "скрепка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "ванна",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "швабра",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "мочалка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 26,
+                    "rightAnswer": "дорога",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "тротуар",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "гора",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "река",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "песок",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 31,
+                    "rightAnswer": "столб",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "топор",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "самокат",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "трамвай",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "эскалатор",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 36,
+                    "rightAnswer": "шнурок",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "фольга",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "кактус",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "треугольник",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "скрипичный ключ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 41,
+                    "rightAnswer": "меольберт",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "каноэ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "катамаран",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "усы",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "роса",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 46,
+                    "rightAnswer": "руль",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "яйцо",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "ворота",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "свисток",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "попкорн",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                }
+            ]
+        },
+	{
+            "name": "medium",
+            "localizedName": "немножко подумаем",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 2,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "сапоги",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "точилка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "кроссворд",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "водопад",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "саксофон",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 6,
+                    "rightAnswer": "кубик рубика",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "пульт",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "дюна",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "вантуз",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "болото",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 11,
+                    "rightAnswer": "рулетка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "стрекоза",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "тушь",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "плойка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "робот",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 16,
+                    "rightAnswer": "мумия",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "череп",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "лужа",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "фонтан",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "торнадо",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+ 		{
+                    "number": 21,
+                    "rightAnswer": "фрак",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "библиотека",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "лук",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "палатка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "доспехи",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 26,
+                    "rightAnswer": "скальпель",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "фонендоскоп",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "пчела",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "медуза",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "пепел",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+ 		{
+                    "number": 31,
+                    "rightAnswer": "бриллиант",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "вулкан",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "гондола",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "вагон",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "жюри",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 36,
+                    "rightAnswer": "богомол",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "бра",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "грязь",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "марка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "бочка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+ 		{
+                    "number": 41,
+                    "rightAnswer": "шезлонг",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "серебро",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "креветка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "кий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "зеркало",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 46,
+                    "rightAnswer": "фасоль",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "трон",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "дрова",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "туннель",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "жемчуг",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                }
+            ]
+        },
+        {
+            "name": "animals",
+            "localizedName": "животные",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 3,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "курица",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "корова",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "овца",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "утка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "индюк",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 6,
+                    "rightAnswer": "лошадь",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "коза",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "свинья",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "кролик",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "осёл",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+		    "gameType": 0,
+                    "cost": 10
+                }
+            ]
+        },
+        {
+            "name": "timeToShoot",
+            "localizedName": "время пострелять",
+            "gameType": 3,
+            "useMixedTypes": false,
+            "orderNumber": 4,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "кроссовки",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 20
+                },
+ 		{
+                    "number": 2,
+                    "rightAnswer": "зонт",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 20
+                },
+ 		{
+                    "number": 3,
+                    "rightAnswer": "серьги",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 20
+                },
+ 		{
+                    "number": 4,
+                    "rightAnswer": "рукопожатие",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 20
+                },
+ 		{
+                    "number": 5,
+                    "rightAnswer": "хвост",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 20
+                },
+ 		{
+                    "number": 6,
+                    "rightAnswer": "ромб",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 20
+                },
+ 		{
+                    "number": 7,
+                    "rightAnswer": "аквариум",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 20
+                },
+ 		{
+                    "number": 8,
+                    "rightAnswer": "гитара",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 20
+                },
+ 		{
+                    "number": 9,
+                    "rightAnswer": "абажюр",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 20
+                },
+ 		{
+                    "number": 10,
+                    "rightAnswer": "мороженое",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 20
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "играть"
+        },
+        {
+            "key": 1,
+            "value": "о игре!"
+        },
+        {
+            "key": 2,
+            "value": "выход"
+        },
+        {
+            "key": 3,
+            "value": "назад"
+        },
+        {
+            "key": 4,
+            "value": "Очень увлекательная викторина для разминки мозгов и просто веселоко вермя препровождения."
+        },
+        {
+            "key": 5,
+            "value": "закрыто"
+        },
+        {
+            "key": 6,
+            "value": "Подсказать букву"
+        },
+        {
+            "key": 7,
+            "value": "Убрать лишние буквы"
+        },
+        {
+            "key": 8,
+            "value": "Ответить"
+        },
+        {
+            "key": 9,
+            "value": "Получить монетки"
+        },
+        {
+            "key": 10,
+            "value": "Просмотр рекламы"
+        },
+        {
+            "key": 11,
+            "value": "Купить за деньги"
+        },
+        {
+            "key": 12,
+            "value": "продолжить"
+        },
+        {
+            "key": 13,
+            "value": "главное меню"
+        },
+        {
+            "key": 14,
+            "value": "Уровень завершен!"
+        },
+        {
+            "key": 15,
+            "value": "Нравится угадывать слова? Тогда, пожалуйста, оцени нашу игру в Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "оценить"
+        },
+        {
+            "key": 18,
+            "value": "позже"
+        },
+        {
+            "key": 17,
+            "value": "никогда"
+        },
+        {
+            "key": 19,
+            "value": "Согласие на сбор данных"
+        },
+        {
+            "key": 20,
+            "value": "Персонализированная реклама"
+        },
+        {
+            "key": 21,
+            "value": "Разрешить рекламным сетям использовать собраную информацию для персонализации рекламных обновлений"
+        },
+        {
+            "key": 22,
+            "value": "да"
+        },
+        {
+            "key": 23,
+            "value": "нет"
+        },
+        {
+            "key": 24,
+            "value": "Похоже у вас есть больший прогресс!"
+        },
+        {
+            "key": 25,
+            "value": "Хотите его загрузить?"
+        },
+        {
+            "key": 26,
+            "value": "Приветик! Просто хотим сказать, мы используем ваш игровой процесс и данные устройства с вашего согласия для улучшения нашей игры!"
+        },
+        {
+            "key": 27,
+            "value": "Вы хотите, чтобы мы представили вам релевантную рекламу, которая соответствует вашим интересам?"
+        },
+        {
+            "key": 28,
+            "value": "Подтвердить"
+        },
+        {
+            "key": 29,
+            "value": "Узнать больше"
+        },
+        {
+            "key": 30,
+            "value": "Удалить неправильный ответ"
+        },
+        {
+            "key": 31,
+            "value": "Удалить два ответа"
+        },
+        {
+            "key": 32,
+            "value": "Шанс ошибиться"
+        },
+        {
+            "key": 33,
+            "value": "Пожалуйста, помогите мне пройти уровень!"
+        },
+        {
+            "key": 34,
+            "value": "Помощь от друзей"
+        },
+        {
+            "key": 35,
+            "value": "Спросить друзей"
+        },
+        {
+            "key": 36,
+            "value": "Ставка"
+        },
+        {
+            "key": 37,
+            "value": "Используй подсказки, если застрял!"
+        },
+        {
+            "key": 38,
+            "value": "Нажмите букву, чтобы очистить её. Проведите пальцем, чтобы очистить все буквы."
+        },
+        {
+            "key": 39,
+            "value": "Очисти защитную пленку, чтобы показать изображение!"
+        },
+        {
+            "key": 40,
+            "value": "Нажми, чтобы сделать изображение более четким. Требуются монетки!"
+        },
+        {
+            "key": 41,
+            "value": "Нажми на изображение, чтобы сделать его более четким. Требуются монетки!"
+        },
+        {
+            "key": 42,
+            "value": "Нажми, чтобы начать прицеливаться. Нажми во второй раз, чтобы стрелять. Требуются монетки!"
+        },
+        {
+            "key": 43,
+            "value": "Нажми на область, чтобы начать прицеливаться. Нажми во второй раз, чтобы стрелять. Требуются монетки!"
+        },
+        {
+            "key": 44,
+            "value": "Нажми, чтобы получить дполнительную информацию!"
+        },
+        {
+            "key": 45,
+            "value": "Сложная задача? Сделай правильную ставку!"
+        },
+        {
+            "key": 46,
+            "value": "ещё игрушки"
+        },
+        {
+            "key": 47,
+            "value": "повторить"
+        },
+        {
+            "key": 48,
+            "value": "прослушать песню на youtube"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        1102,
+        1073,
+        1082,
+        1072,
+        1090,
+        1088,
+        1078,
+        1074,
+        1091,
+        1089,
+        1086,
+        1080,
+        1079,
+        1093,
+        1083,
+        1087
+    ]
+}

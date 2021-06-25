@@ -1,0 +1,1130 @@
+{
+    "tasksData": [
+        {
+            "name": "easy",
+            "localizedName": "common words",
+            "gameType": 0,
+	    "useMixedTypes": false,
+            "orderNumber": 10,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "apple",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 2,
+                    "rightAnswer": "ball",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 3,
+                    "rightAnswer": "strawberry",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 4,
+                    "rightAnswer": "key",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 5,
+                    "rightAnswer": "mushroom",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 6,
+                    "rightAnswer": "dog",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 7,
+                    "rightAnswer": "table",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 8,
+                    "rightAnswer": "tree",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 9,
+                    "rightAnswer": "pillow",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 10,
+                    "rightAnswer": "bread",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 11,
+                    "rightAnswer": "spoon",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 12,
+                    "rightAnswer": "fork",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 13,
+                    "rightAnswer": "sun",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 14,
+                    "rightAnswer": "house",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 15,
+                    "rightAnswer": "chair",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 16,
+                    "rightAnswer": "eye",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 17,
+                    "rightAnswer": "door",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 18,
+                    "rightAnswer": "brain",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 19,
+                    "rightAnswer": "leg",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 20,
+                    "rightAnswer": "hand",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 21,
+                    "rightAnswer": "banana",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 22,
+                    "rightAnswer": "stick",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 23,
+                    "rightAnswer": "bench",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 24,
+                    "rightAnswer": "wall",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 25,
+                    "rightAnswer": "wheel",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 26,
+                    "rightAnswer": "bird",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 27,
+                    "rightAnswer": "drum",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 28,
+                    "rightAnswer": "scissors",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 29,
+                    "rightAnswer": "finger",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 30,
+                    "rightAnswer": "car",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 31,
+                    "rightAnswer": "sofa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 32,
+                    "rightAnswer": "stairs",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 33,
+                    "rightAnswer": "hammer",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 34,
+                    "rightAnswer": "screwdriver",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 35,
+                    "rightAnswer": "soup",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 36,
+                    "rightAnswer": "pear",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 37,
+                    "rightAnswer": "potato",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 38,
+                    "rightAnswer": "mug",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 39,
+                    "rightAnswer": "rain",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 40,
+                    "rightAnswer": "butterfly",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 41,
+                    "rightAnswer": "cat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 42,
+                    "rightAnswer": "blanket",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 43,
+                    "rightAnswer": "towel",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 44,
+                    "rightAnswer": "fist",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 45,
+                    "rightAnswer": "flower",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 46,
+                    "rightAnswer": "coffe",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 47,
+                    "rightAnswer": "sugar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 48,
+                    "rightAnswer": "milk",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 49,
+                    "rightAnswer": "pen",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 50,
+                    "rightAnswer": "pencil",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 51,
+                    "rightAnswer": "fence",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 52,
+                    "rightAnswer": "fishing rod",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 53,
+                    "rightAnswer": "stone",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 54,
+                    "rightAnswer": "window",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 55,
+                    "rightAnswer": "safe",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 56,
+                    "rightAnswer": "cloud",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 57,
+                    "rightAnswer": "book",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 58,
+                    "rightAnswer": "fire",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 59,
+                    "rightAnswer": "letter",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 60,
+                    "rightAnswer": "shower",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 61,
+                    "rightAnswer": "knife",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 62,
+                    "rightAnswer": "leaf",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 63,
+                    "rightAnswer": "bottle",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 64,
+                    "rightAnswer": "ear",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 65,
+                    "rightAnswer": "pendulum",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 66,
+                    "rightAnswer": "magnifier",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 67,
+                    "rightAnswer": "brick",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 68,
+                    "rightAnswer": "nail",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 69,
+                    "rightAnswer": "iron",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 70,
+                    "rightAnswer": "glass",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 71,
+                    "rightAnswer": "button",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 72,
+                    "rightAnswer": "beanbag",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 73,
+                    "rightAnswer": "box",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 74,
+                    "rightAnswer": "toilet",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 75,
+                    "rightAnswer": "pan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 76,
+                    "rightAnswer": "thermos",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 77,
+                    "rightAnswer": "bicycle",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 78,
+                    "rightAnswer": "clock",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 79,
+                    "rightAnswer": "libra",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 80,
+                    "rightAnswer": "crown",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 81,
+                    "rightAnswer": "grass",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 82,
+                    "rightAnswer": "peach",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 83,
+                    "rightAnswer": "back",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 84,
+                    "rightAnswer": "shorts",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 85,
+                    "rightAnswer": "bow",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 86,
+                    "rightAnswer": "bag",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 87, 
+		    "rightAnswer": "helicopter",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 88,
+                    "rightAnswer": "barrier",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 89,
+                    "rightAnswer": "pizza",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 90,
+                    "rightAnswer": "ring",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }, 
+		{
+                    "number": 91,
+                    "rightAnswer": "fire extinguisher",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 92,
+                    "rightAnswer": "teeth",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 93,
+                    "rightAnswer": "bus",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 94,
+                    "rightAnswer": "cap",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 95,
+                    "rightAnswer": "tambourine",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 96,
+                    "rightAnswer": "globe",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 97,
+                    "rightAnswer": "fish",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 98,
+                    "rightAnswer": "compas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 99,
+                    "rightAnswer": "wineglass",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+		{
+                    "number": 100,
+                    "rightAnswer": "pool",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "play"
+        },
+        {
+            "key": 1,
+            "value": "info"
+        },
+        {
+            "key": 2,
+            "value": "quit"
+        },
+        {
+            "key": 3,
+            "value": "back"
+        },
+        {
+            "key": 4,
+            "value": "Guess the words. Have fun!"
+        },
+        {
+            "key": 5,
+            "value": "locked"
+        },
+        {
+            "key": 6,
+            "value": "Reveal a letter"
+        },
+        {
+            "key": 7,
+            "value": "Remove letters"
+        },
+        {
+            "key": 8,
+            "value": "Get an answer"
+        },
+        {
+            "key": 9,
+            "value": "Get coins"
+        },
+        {
+            "key": 10,
+            "value": "Watch AD"
+        },
+        {
+            "key": 11,
+            "value": "Buy for money"
+        },
+        {
+            "key": 12,
+            "value": "continue"
+        },
+        {
+            "key": 13,
+            "value": "main menu"
+        },
+        {
+            "key": 14,
+            "value": "Level complete!"
+        },
+        {
+            "key": 15,
+            "value": "If you liked our game, please rate it on Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "rate"
+        },
+        {
+            "key": 18,
+            "value": "later"
+        },
+        {
+            "key": 17,
+            "value": "never"
+        },
+        {
+            "key": 19,
+            "value": "Data collection consent"
+        },
+        {
+            "key": 20,
+            "value": "Personalized advertisements"
+        },
+        {
+            "key": 21,
+            "value": "Allow AD networks to use collected data and show personalized advertisements"
+        },
+        {
+            "key": 22,
+            "value": "yes"
+        },
+        {
+            "key": 23,
+            "value": "no"
+        },
+        {
+            "key": 24,
+            "value": "Looks like you have better progress!"
+        },
+        {
+            "key": 25,
+            "value": "Do you want to load it?"
+        },
+        {
+            "key": 26,
+            "value": "Hello there! Just to let you know, we use your gameplay and device data with your consent to improve our game!"
+        },
+        {
+            "key": 27,
+            "value": "Do you want us to present you relevant advertising that fits your interests?"
+        },
+        {
+            "key": 28,
+            "value": "Confirm"
+        },
+        {
+            "key": 29,
+            "value": "Learn more"
+        },
+        {
+            "key": 30,
+            "value": "Remove wrong answer"
+        },
+        {
+            "key": 31,
+            "value": "Remove two answers"
+        },
+        {
+            "key": 32,
+            "value": "Chance to mistake"
+        },
+        {
+            "key": 33,
+            "value": "Please, help me to complete the level!"
+        },
+        {
+            "key": 34,
+            "value": "Help from friends"
+        },
+        {
+            "key": 35,
+            "value": "Ask friends"
+        },
+        {
+            "key": 36,
+            "value": "Bet"
+        },
+        {
+            "key": 37,
+            "value": "Use hints if you get stucked!"
+        },
+        {
+            "key": 38,
+            "value": "Tap the letter to clear it. Swipe to clear all letters."
+        },
+        {
+            "key": 39,
+            "value": "Scrape the film to reveal the image!"
+        },
+        {
+            "key": 40,
+            "value": "Tap this to make the image more clear. Requires gold!"
+        },
+        {
+            "key": 41,
+            "value": "Tap the image to make it more clear. Requires gold!"
+        },
+        {
+            "key": 42,
+            "value": "Tap this to start aiming. Tap in second time to shoot. Requires gold!"
+        },
+        {
+            "key": 43,
+            "value": "Tap the area to start aiming. Tap in second time to shoot. Requires gold!"
+        },
+        {
+            "key": 44,
+            "value": "Tap to get useful info about the task!"
+        },
+        {
+            "key": 45,
+            "value": "How difficult this task is? Make a right bet!"
+        },
+        {
+            "key": 46,
+            "value": "more games"
+        },
+        {
+            "key": 47,
+            "value": "retry"
+        },
+        {
+            "key": 48,
+            "value": "listen song on youtube"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        121,
+        98,
+        107,
+        119,
+        116,
+        114,
+        106,
+        118,
+        117,
+        99,
+        113,
+        105,
+        122,
+        120,
+        108,
+        112
+    ]
+}
